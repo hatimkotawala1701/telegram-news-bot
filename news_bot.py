@@ -28,8 +28,8 @@ from telegram.ext import (
     filters,
 )
 
-BOT_TOKEN = "8700051027:AAEOWrK0rLZwdnIcBehiX15ehiqjk4epI4E"
-NEWSAPI_KEY = "ab823ad21f264509a90b3ed55911feae"
+BOT_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
+NEWSAPI_KEY = "YOUR_NEWSAPI_KEY"
 RESULTS_PER_SOURCE = 3        
 
 
