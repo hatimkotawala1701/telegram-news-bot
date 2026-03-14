@@ -76,11 +76,6 @@ python news_bot.py
 
 ---
 
-## Screenshot
-
-*Add screenshot here after running the bot*
-
----
 
 ## Tech Stack
 
